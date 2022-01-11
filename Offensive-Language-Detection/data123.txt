@@ -1,0 +1,1 @@
+{"a": [[{"SVM": {"training": 67.684, "testing": 68.671}, "KNN": {"training": 70.463, "testing": 69.063}, "classifier": 0}, {"SVM": 
